@@ -3,6 +3,7 @@
 {% block content %}
 <h2 style="text-align: center;">الدرس التدريبي: مقدمة في برنامج Excel</h2>
 
+<!-- Slide 1: Welcome screen -->
 <div id="slide1" class="lesson-slide">
     <h3>مرحبا بك في التدريب التفاعلي!</h3>
     <audio id="introAudio" src="{{ url_for('static', filename='media/audio/intro_welcome.mp3') }}" autoplay></audio>
@@ -11,6 +12,7 @@
     <button onclick="startTraining()">ابدأ التدريب</button>
 </div>
 
+<!-- Slide 2: Intro to menus -->
 <div id="slide2" class="lesson-slide" style="display: none;">
     <h3>تعرف على القوائم الأساسية</h3>
     <audio id="audio2" src="{{ url_for('static', filename='media/audio/menus.mp3') }}"></audio>
@@ -23,6 +25,7 @@
     </p>
 </div>
 
+<!-- Slide 3: Quick question -->
 <div id="slide3" class="lesson-slide" style="display:none;">
     <h3>سؤال سريع</h3>
     <p>ما اسم التبويب المستخدم لإدخال المعادلات في Excel؟</p>
@@ -33,6 +36,7 @@
     <button id="slide3Next" onclick="nextSlide()" style="display:none;">التالي ▶️</button>
 </div>
 
+<!-- Slide 4: Explain SUM function -->
 <div id="slide4" class="lesson-slide" style="display:none;">
     <h3>شرح استخدام الدالة SUM</h3>
     <audio id="audio4" src="{{ url_for('static', filename='media/audio/sum_intro.mp3') }}"></audio>
@@ -46,6 +50,7 @@
     <button onclick="nextSlide()">تخطي</button>
 </div>
 
+<!-- Slide 5: Quick test -->
 <div id="slide5" class="lesson-slide" style="display:none;">
     <h3>اختبار سريع</h3>
     <p>في الفيديو السابق، كم كانت نتيجة دالة الجمع؟</p>
@@ -54,6 +59,7 @@
     <p id="slide5Result" style="color: green;"></p>
 </div>
 
+<!-- Slide 6: Save file step -->
 <div id="slide6" class="lesson-slide" style="display:none;">
     <h3>خطوة أخيرة!</h3>
     <p>اضغط على زر "حفظ الملف" لإتمام العملية.</p>
@@ -64,17 +70,42 @@
     <audio id="audio6" src="{{ url_for('static', filename='media/audio/save_instruction.mp3') }}"></audio>
 </div>
 
+<!-- Slide 7: Simulated interaction -->
 <div id="slide7" class="lesson-slide" style="display:none;">
     <h3>جرب بنفسك!</h3>
     <audio id="audio7" src="{{ url_for('static', filename='media/audio/excel_simulation_instruction.mp3') }}"></audio>
-    <div id="excelSim" style="position: relative; width: 1000px; margin: auto; background-image: url('{{ url_for('static', filename='images/sample7.png') }}'); background-size: contain; background-repeat: no-repeat; background-position: top left; border: 1px solid #ccc; aspect-ratio: 2 / 1;">
-        <div id="fileArea" style="position: absolute; top: 7.3%; right: 1.5%; width: 60px; height: 30px; cursor: pointer; z-index: 5; display: none;" title="انقر هنا لفتح قائمة ملف" onclick="onFileClick()"></div>
+    <div id="excelSim" style="
+        position: relative;
+        width: 1000px;
+        margin: auto;
+        background-image: url('{{ url_for('static', filename='images/sample7.png') }}');
+        background-size: contain;
+        background-repeat: no-repeat;
+        background-position: top left;
+        border: 1px solid #ccc;
+        aspect-ratio: 2 / 1;">
+        
+        <!-- This clickable area is over the 'File' tab -->
+        <div id="fileArea" style="
+            position: absolute;
+            top: 7.3%;
+            right: 1.5%;
+            width: 60px;
+            height: 30px;
+            cursor: pointer;
+            z-index: 5;
+            display: none;"
+            title="انقر هنا لفتح قائمة ملف"
+            onclick="onFileClick()">
+        </div>
     </div>
+
     <br>
     <button id="startButton7" onclick="startSimulation()">ابدأ المحاكاة</button>
     <button id="backButton7" onclick="goBack()" style="display: none;">إعادة</button>
 </div>
 
+<!-- Global lesson navigation -->
 <div id="lessonControls" style="text-align: center; margin-top: 30px;">
     <button onclick="handleBack()">العودة</button>
     <button id="nextButton" onclick="nextSlide()">التالي</button>
