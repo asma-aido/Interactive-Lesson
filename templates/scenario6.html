@@ -1,0 +1,22 @@
+{% extends "base.html" %}
+
+{% block content %}
+<h2 style="text-align: center;">سيناريو 6: توجيه مرئي</h2>
+
+<div id="scenario6-container" style="text-align: center; position: relative; height: 400px; margin-top: 50px;">
+    <p>اضغط على زر "حفظ الملف" لإتمام العملية.</p>
+
+    <div id="saveArea6">
+        <div id="highlightBox6"></div>
+        <div id="fakeButton6" onclick="handleClick6()">💾 حفظ الملف</div>
+    </div>
+
+    <button onclick="restartScenario6()">🔄 إعادة السيناريو</button>
+
+    <audio id="audio6" src="{{ url_for('static', filename='media/audio/save_instruction.mp3') }}"></audio>
+</div>
+{% endblock %}
+
+{% block scripts %}
+
+{% endblock %}

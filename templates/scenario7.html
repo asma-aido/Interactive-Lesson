@@ -1,0 +1,81 @@
+{% extends "base.html" %}
+
+{% block content %}
+<h2 style="text-align: center;">Scenario 7: محاكاة واجهة Excel</h2>
+
+<audio id="scenario7Audio" src="{{ url_for('static', filename='media/audio/excel_simulation_instruction.mp3') }}"></audio>
+
+<div id="excelSim" style="
+    position: relative;
+    width: 1000px;
+    margin: auto;
+    background-image: url('{{ url_for('static', filename='images/sample7.png') }}');
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: top left;
+    border: 1px solid #ccc;
+    aspect-ratio: 2 / 1;
+">
+    <!-- This clickable area simulates the "File" tab in Excel -->
+    <div id="fileArea" style="
+        position: absolute;
+        top: 7.3%;
+        right: 1.5%;
+        width: 60px;
+        height: 30px;
+        cursor: pointer;
+        z-index: 5;
+        display: none;
+    " title="انقر هنا لفتح قائمة ملف" onclick="onFileClick()"></div>
+</div>
+
+<br>
+<div style="text-align: center;">
+    <button id="startButton" onclick="startSimulation()">ابدأ المحاكاة</button>
+    <button id="backButton" onclick="goBack()" style="display: none;">إعادة</button>
+</div>
+{% endblock %}
+
+{% block scripts %}
+<script>
+        function startSimulation() {
+        const simDiv = document.getElementById("excelSim");
+        const fileArea = document.getElementById("fileArea");
+        const startBtn = document.getElementById("startButton");
+        const backBtn = document.getElementById("backButton");
+        const audio = document.getElementById("scenario7Audio");
+
+        simDiv.style.backgroundImage = "url('{{ url_for('static', filename='images/sample7_2.png') }}')";
+        fileArea.style.display = "block";
+        startBtn.style.display = "none";
+        backBtn.style.display = "none";
+        audio.play().catch(() => {});
+    }
+
+    function onFileClick() {
+        const simDiv = document.getElementById("excelSim");
+        const fileArea = document.getElementById("fileArea");
+        const backBtn = document.getElementById("backButton");
+
+        simDiv.style.backgroundImage = "url('{{ url_for('static', filename='images/sample7_3.png') }}')";
+        fileArea.style.display = "none";
+        backBtn.style.display = "inline-block";
+
+        fetch("/scenario7/log_click", {
+            method: "POST",
+            headers: { "Content-Type": "application/json" },
+            body: JSON.stringify({ user: "default_user", action: "clicked_file_area" })
+        });
+    }
+
+    function goBack() {
+        const simDiv = document.getElementById("excelSim");
+        const fileArea = document.getElementById("fileArea");
+        const backBtn = document.getElementById("backButton");
+
+        simDiv.style.backgroundImage = "url('{{ url_for('static', filename='images/sample7_2.png') }}')";
+        fileArea.style.display = "block";
+        backBtn.style.display = "none";
+    }
+</script>
+{% endblock %}

@@ -1,0 +1,24 @@
+{% extends "base.html" %}
+
+{% block content %}
+    <h1 style="text-align: center;">
+        مرحبًا بك في المنصة التدريبية التفاعلية
+    </h1>
+    <p style="text-align: center;">
+        اختر من القائمة التالية للبدء:
+    </p>
+
+    <ul style="list-style: none; padding: 0; text-align: center;">
+        <!-- Main entry points for the interactive lessons -->
+        <!-- You can reorder or remove items as needed -->
+
+        <li><a href="/lesson1"><button>📘 الدرس التدريبي المتكامل (Excel)</button></a></li>
+        <li><a href="/scenario1"><button>🧩 سيناريو 1</button></a></li>
+        <li><a href="/scenario2"><button>🧩 سيناريو 2</button></a></li>
+        <li><a href="/scenario3"><button>🧩 سيناريو 3</button></a></li>
+        <li><a href="/scenario4"><button>🧩 سيناريو 4</button></a></li>
+        <li><a href="/scenario5"><button>🧩 سيناريو 5</button></a></li>
+        <li><a href="/scenario6"><button>🧩 سيناريو 6</button></a></li>
+        <li><a href="/scenario7"><button>🖥️ سيناريو 7 (محاكاة Excel)</button></a></li>
+    </ul>
+{% endblock %}

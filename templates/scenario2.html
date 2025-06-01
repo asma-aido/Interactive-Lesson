@@ -1,0 +1,26 @@
+{% extends "base.html" %}
+
+{% block content %}
+<h2 style="text-align: center;">سيناريو 2: شرح القوائم في Excel</h2>
+
+<div style="text-align: center;">
+    <audio id="audio2" src="{{ url_for('static', filename='media/audio/menus.mp3') }}"></audio>
+    <button id="manualPlay" onclick="document.getElementById('audio2').play()">▶️ تشغيل الصوت يدويًا</button>
+
+    <br><br>
+
+    <img id="menuImage" 
+         src="{{ url_for('static', filename='images/sample2.png') }}" 
+         alt="قوائم Excel" 
+         width="600">
+
+    <p style="margin-top: 15px;">
+        في أعلى واجهة Excel توجد تبويبات مثل: ملف، إدراج، صيغ، بيانات، مراجعة، عرض.<br>
+        كل تبويب يحتوي على مجموعة من الأدوات الخاصة به.
+    </p>
+</div>
+{% endblock %}
+
+{% block scripts %}
+
+{% endblock %}

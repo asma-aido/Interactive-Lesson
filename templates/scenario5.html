@@ -1,0 +1,23 @@
+{% extends "base.html" %}
+
+{% block content %}
+<h2 style="text-align: center;">سيناريو 5: اختبار بعد مشاهدة الفيديو</h2>
+
+<div style="text-align: center;">
+    <p>كم كانت نتيجة دالة الجمع في الفيديو؟</p>
+    <input type="number" id="slide5Input" placeholder="أدخل النتيجة">
+    <button onclick="checkAnswer()">تحقق</button>
+    <p id="result" style="font-weight: bold;"></p>
+
+    <div id="videoContainer" style="display: none; margin-top: 20px;">
+        <video width="600" controls>
+            <source src="{{ url_for('static', filename='media/video/sample4.mp4') }}" type="video/mp4">
+            المتصفح لا يدعم تشغيل الفيديو.
+        </video>
+    </div>
+</div>
+{% endblock %}
+
+{% block scripts %}
+
+{% endblock %}

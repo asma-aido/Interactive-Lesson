@@ -1,0 +1,25 @@
+{% extends "base.html" %}
+
+{% block content %}
+<h2 style="text-align: center;">سيناريو 4: شرح باستخدام الفيديو</h2>
+
+<div style="text-align: center;">
+    <audio id="audio4" src="{{ url_for('static', filename='media/audio/sum_intro.mp3') }}" autoplay></audio>
+    <p>سيبدأ الصوت التوضيحي الآن...</p>
+
+    <div style="margin-top: 20px;">
+        <video id="video4" width="600" controls>
+            <source src="{{ url_for('static', filename='media/video/sample4.mp4') }}" type="video/mp4">
+            المتصفح لا يدعم تشغيل الفيديو.
+        </video>
+    </div>
+
+    <div style="margin-top: 20px;">
+        <button onclick="skipVideo()">تخطي الفيديو</button>
+    </div>
+</div>
+{% endblock %}
+
+{% block scripts %}
+
+{% endblock %}

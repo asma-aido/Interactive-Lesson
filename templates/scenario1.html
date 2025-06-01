@@ -1,0 +1,17 @@
+{% extends "base.html" %}
+
+{% block content %}
+<h2 style="text-align: center;">المرحلة 1: البداية</h2>
+
+<audio id="introAudio" src="{{ url_for('static', filename='media/audio/intro_welcome.mp3') }}" autoplay></audio>
+
+<div style="text-align: center;">
+    <img src="{{ url_for('static', filename='images/sample1.png') }}" alt="واجهة Excel" width="600">
+    <p>مرحبًا بك! اضغط على الزر أدناه للبدء.</p>
+    <button onclick="startAndRedirect()">ابدأ التدريب</button>
+</div>
+{% endblock %}
+
+{% block scripts %}
+
+{% endblock %}

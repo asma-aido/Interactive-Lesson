@@ -1,0 +1,22 @@
+{% extends "base.html" %}
+
+{% block content %}
+<h2 style="text-align: center;">سيناريو 3: سؤال تفاعلي</h2>
+
+<div style="text-align: center;">
+    <p>ما اسم التبويب المستخدم لإدخال المعادلات في Excel؟</p>
+    <input type="text" id="answerInput" placeholder="أدخل الإجابة هنا">
+    <button onclick="checkAnswer()">تحقق</button>
+    <p id="result" style="font-weight: bold;"></p>
+    <p id="attemptsDisplay">عدد المحاولات: 0</p>
+
+    <audio id="correctSound" src="{{ url_for('static', filename='media/audio/correct.mp3') }}"></audio>
+    <audio id="wrongSound" src="{{ url_for('static', filename='media/audio/wrong.mp3') }}"></audio>
+
+    <button id="nextBtn" onclick="window.location.href='/scenario4'" style="display: none;">التالي ▶️</button>
+</div>
+{% endblock %}
+
+{% block scripts %}
+
+{% endblock %}
