@@ -1,0 +1,104 @@
+{
+    "default_user": [
+        {
+            "action": "clicked_file_area",
+            "timestamp": "2025-05-14T13:16:16.895300"
+        },
+        {
+            "action": "clicked_file_area",
+            "timestamp": "2025-05-14T13:26:29.201858"
+        },
+        {
+            "action": "clicked_file_area",
+            "timestamp": "2025-05-14T13:27:43.565026"
+        },
+        {
+            "action": "clicked_file_area",
+            "timestamp": "2025-05-14T13:31:54.262029"
+        },
+        {
+            "action": "clicked_file_area",
+            "timestamp": "2025-05-14T13:32:45.994910"
+        },
+        {
+            "action": "clicked_file_area",
+            "timestamp": "2025-05-18T18:40:49.095037"
+        },
+        {
+            "action": "clicked_file_area",
+            "timestamp": "2025-05-18T18:42:02.424767"
+        },
+        {
+            "action": "clicked_file_area",
+            "timestamp": "2025-05-18T18:42:07.337974"
+        },
+        {
+            "action": "clicked_file_area",
+            "timestamp": "2025-06-01T10:40:19.494730"
+        },
+        {
+            "action": "clicked_file_area",
+            "timestamp": "2025-06-01T11:19:24.426233"
+        },
+        {
+            "action": "clicked_file_area",
+            "timestamp": "2025-06-01T11:19:28.759119"
+        },
+        {
+            "action": "clicked_file_area",
+            "timestamp": "2025-06-01T11:22:08.653794"
+        },
+        {
+            "action": "clicked_file_area",
+            "timestamp": "2025-06-01T11:22:11.362271"
+        },
+        {
+            "action": "clicked_file_area",
+            "timestamp": "2025-06-01T11:23:03.240870"
+        },
+        {
+            "action": "clicked_file_area",
+            "timestamp": "2025-06-01T11:37:37.617166"
+        },
+        {
+            "action": "clicked_file_area",
+            "timestamp": "2025-06-01T11:47:31.152334"
+        },
+        {
+            "action": "clicked_file_area",
+            "timestamp": "2025-06-01T11:48:00.156101"
+        },
+        {
+            "action": "clicked_file_area",
+            "timestamp": "2025-06-01T12:43:11.747848"
+        },
+        {
+            "action": "clicked_file_area",
+            "timestamp": "2025-06-01T12:53:17.511313"
+        },
+        {
+            "action": "clicked_file_area",
+            "timestamp": "2025-06-01T12:59:17.959285"
+        },
+        {
+            "action": "clicked_file_area",
+            "timestamp": "2025-06-01T13:05:41.642943"
+        },
+        {
+            "action": "clicked_file_area",
+            "timestamp": "2025-06-01T13:05:45.599354"
+        },
+        {
+            "action": "clicked_file_area",
+            "timestamp": "2025-06-01T13:05:56.671966"
+        },
+        {
+            "action": "clicked_file_area",
+            "timestamp": "2025-06-01T13:15:25.096271"
+        },
+        {
+            "action": "clicked_file_area",
+            "timestamp": "2025-06-01T13:32:23.996199"
+        }
+    ]
+}

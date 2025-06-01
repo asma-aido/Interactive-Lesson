@@ -1,0 +1,19 @@
+{
+    "default_user": [
+        {
+            "attempt": 1,
+            "success": false,
+            "timestamp": "2025-05-13T21:30:34.015787"
+        },
+        {
+            "attempt": 2,
+            "success": true,
+            "timestamp": "2025-05-13T21:30:38.684618"
+        },
+        {
+            "attempt": 1,
+            "success": true,
+            "timestamp": "2025-06-01T11:48:23.463308"
+        }
+    ]
+}

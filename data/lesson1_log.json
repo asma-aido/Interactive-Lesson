@@ -1,0 +1,1018 @@
+{
+    "default_user": [
+        {
+            "slide": 1,
+            "action": "start_clicked",
+            "timestamp": "2025-05-13T19:03:03.588728"
+        },
+        {
+            "slide": 1,
+            "action": "start_clicked",
+            "timestamp": "2025-05-13T19:03:04.267283"
+        },
+        {
+            "slide": 1,
+            "action": "start_clicked",
+            "timestamp": "2025-05-13T20:17:15.351595"
+        },
+        {
+            "slide": 1,
+            "action": "start_clicked",
+            "timestamp": "2025-05-13T20:17:15.960976"
+        },
+        {
+            "slide": 1,
+            "action": "start_clicked",
+            "timestamp": "2025-05-13T20:31:51.865996"
+        },
+        {
+            "slide": 1,
+            "action": "start_clicked",
+            "timestamp": "2025-05-13T20:33:16.319566"
+        },
+        {
+            "slide": 1,
+            "action": "start_clicked",
+            "timestamp": "2025-05-13T20:33:34.870041"
+        },
+        {
+            "slide": 1,
+            "action": "start_clicked",
+            "timestamp": "2025-05-13T20:35:06.595964"
+        },
+        {
+            "slide": 1,
+            "action": "start_clicked",
+            "timestamp": "2025-05-13T20:38:59.350875"
+        },
+        {
+            "slide": 1,
+            "action": "start_clicked",
+            "timestamp": "2025-05-13T20:43:06.820681"
+        },
+        {
+            "slide": 1,
+            "action": "start_clicked",
+            "timestamp": "2025-05-13T20:43:19.478874"
+        },
+        {
+            "slide": 1,
+            "action": "start_clicked",
+            "timestamp": "2025-05-13T20:46:16.355815"
+        },
+        {
+            "slide": 1,
+            "action": "start_clicked",
+            "timestamp": "2025-05-13T20:46:49.097587"
+        },
+        {
+            "slide": 1,
+            "action": "start_clicked",
+            "timestamp": "2025-05-13T20:49:10.440230"
+        },
+        {
+            "slide": 1,
+            "action": "start_clicked",
+            "timestamp": "2025-05-13T20:49:58.717362"
+        },
+        {
+            "slide": 1,
+            "action": "start_clicked",
+            "timestamp": "2025-05-13T20:50:13.072519"
+        },
+        {
+            "slide": 1,
+            "action": "start_clicked",
+            "timestamp": "2025-05-13T20:56:06.051298"
+        },
+        {
+            "slide": 1,
+            "action": "start_clicked",
+            "timestamp": "2025-05-13T21:00:25.496759"
+        },
+        {
+            "slide": 1,
+            "action": "start_clicked",
+            "timestamp": "2025-05-13T21:01:28.604934"
+        },
+        {
+            "slide": 1,
+            "action": "start_clicked",
+            "timestamp": "2025-05-13T21:02:04.833236"
+        },
+        {
+            "slide": 1,
+            "action": "start_clicked",
+            "timestamp": "2025-05-13T21:07:13.356841"
+        },
+        {
+            "slide": 1,
+            "action": "start_clicked",
+            "timestamp": "2025-05-13T21:13:24.457687"
+        },
+        {
+            "slide": 1,
+            "action": "start_clicked",
+            "timestamp": "2025-05-13T21:14:31.574101"
+        },
+        {
+            "slide": 1,
+            "action": "start_clicked",
+            "timestamp": "2025-05-13T21:21:30.880953"
+        },
+        {
+            "slide": 1,
+            "action": "start_clicked",
+            "timestamp": "2025-05-13T21:22:30.515424"
+        },
+        {
+            "slide": 1,
+            "action": "start_clicked",
+            "timestamp": "2025-05-13T21:25:34.113911"
+        },
+        {
+            "slide": 3,
+            "attempt": 1,
+            "success": false,
+            "timestamp": "2025-05-13T21:25:39.644812"
+        },
+        {
+            "slide": 3,
+            "attempt": 2,
+            "success": true,
+            "timestamp": "2025-05-13T21:25:43.394163"
+        },
+        {
+            "slide": 1,
+            "action": "start_clicked",
+            "timestamp": "2025-05-13T21:31:33.388225"
+        },
+        {
+            "slide": 1,
+            "action": "start_clicked",
+            "timestamp": "2025-05-13T21:35:05.007777"
+        },
+        {
+            "slide": 1,
+            "action": "start_clicked",
+            "timestamp": "2025-05-13T21:35:19.223043"
+        },
+        {
+            "slide": 1,
+            "action": "start_clicked",
+            "timestamp": "2025-05-13T21:35:42.927562"
+        },
+        {
+            "slide": 1,
+            "action": "start_clicked",
+            "timestamp": "2025-05-13T21:36:48.025639"
+        },
+        {
+            "slide": 3,
+            "attempt": 1,
+            "success": false,
+            "timestamp": "2025-05-13T21:36:52.881880"
+        },
+        {
+            "slide": 3,
+            "attempt": 2,
+            "success": true,
+            "timestamp": "2025-05-13T21:37:03.658857"
+        },
+        {
+            "slide": 1,
+            "action": "start_clicked",
+            "timestamp": "2025-05-13T21:45:07.050212"
+        },
+        {
+            "slide": 3,
+            "attempt": 1,
+            "success": true,
+            "timestamp": "2025-05-13T21:45:14.044342"
+        },
+        {
+            "slide": 5,
+            "attempt": 1,
+            "success": false,
+            "timestamp": "2025-05-13T21:45:28.581455"
+        },
+        {
+            "slide": 5,
+            "attempt": 1,
+            "success": true,
+            "timestamp": "2025-05-13T21:45:36.179415"
+        },
+        {
+            "slide": 1,
+            "action": "start_clicked",
+            "timestamp": "2025-05-13T21:51:06.327210"
+        },
+        {
+            "slide": 3,
+            "attempt": 1,
+            "success": true,
+            "timestamp": "2025-05-13T21:51:14.822661"
+        },
+        {
+            "slide": 1,
+            "action": "start_clicked",
+            "timestamp": "2025-05-13T21:54:14.981292"
+        },
+        {
+            "slide": 3,
+            "attempt": 1,
+            "success": true,
+            "timestamp": "2025-05-13T21:54:22.956672"
+        },
+        {
+            "slide": 5,
+            "attempt": 1,
+            "success": true,
+            "timestamp": "2025-05-13T21:54:30.274676"
+        },
+        {
+            "slide": 1,
+            "action": "start_clicked",
+            "timestamp": "2025-05-13T22:01:17.244139"
+        },
+        {
+            "slide": 3,
+            "attempt": 1,
+            "success": true,
+            "timestamp": "2025-05-13T22:01:21.499806"
+        },
+        {
+            "slide": 5,
+            "attempt": 1,
+            "success": true,
+            "timestamp": "2025-05-13T22:01:27.013019"
+        },
+        {
+            "slide": 1,
+            "action": "start_clicked",
+            "timestamp": "2025-05-13T22:08:19.409235"
+        },
+        {
+            "slide": 3,
+            "attempt": 1,
+            "success": true,
+            "timestamp": "2025-05-13T22:08:22.936190"
+        },
+        {
+            "slide": 5,
+            "attempt": 1,
+            "success": true,
+            "timestamp": "2025-05-13T22:08:31.319035"
+        },
+        {
+            "slide": 1,
+            "action": "start_clicked",
+            "timestamp": "2025-05-13T22:08:51.909711"
+        },
+        {
+            "slide": 1,
+            "action": "start_clicked",
+            "timestamp": "2025-05-13T22:19:25.219835"
+        },
+        {
+            "slide": 3,
+            "attempt": 1,
+            "success": true,
+            "timestamp": "2025-05-13T22:19:28.581560"
+        },
+        {
+            "slide": 5,
+            "attempt": 1,
+            "success": true,
+            "timestamp": "2025-05-13T22:19:34.600517"
+        },
+        {
+            "slide": 3,
+            "attempt": 1,
+            "success": true,
+            "timestamp": "2025-05-13T22:20:29.755024"
+        },
+        {
+            "slide": 5,
+            "attempt": 1,
+            "success": true,
+            "timestamp": "2025-05-13T22:20:34.384257"
+        },
+        {
+            "slide": 1,
+            "action": "start_clicked",
+            "timestamp": "2025-05-13T22:26:25.052618"
+        },
+        {
+            "slide": 3,
+            "attempt": 1,
+            "success": true,
+            "timestamp": "2025-05-13T22:26:30.086244"
+        },
+        {
+            "slide": 5,
+            "attempt": 1,
+            "success": true,
+            "timestamp": "2025-05-13T22:26:36.193898"
+        },
+        {
+            "slide": 1,
+            "action": "start_clicked",
+            "timestamp": "2025-05-13T22:27:26.555054"
+        },
+        {
+            "slide": 3,
+            "attempt": 1,
+            "success": true,
+            "timestamp": "2025-05-13T22:27:30.214323"
+        },
+        {
+            "slide": 5,
+            "attempt": 1,
+            "success": true,
+            "timestamp": "2025-05-13T22:27:38.086101"
+        },
+        {
+            "slide": 1,
+            "action": "start_clicked",
+            "timestamp": "2025-05-13T22:30:36.429575"
+        },
+        {
+            "slide": 3,
+            "attempt": 1,
+            "success": true,
+            "timestamp": "2025-05-13T22:30:39.945313"
+        },
+        {
+            "slide": 5,
+            "attempt": 1,
+            "success": true,
+            "timestamp": "2025-05-13T22:30:45.275038"
+        },
+        {
+            "slide": 1,
+            "action": "start_clicked",
+            "timestamp": "2025-05-13T22:31:02.341116"
+        },
+        {
+            "slide": 3,
+            "attempt": 1,
+            "success": true,
+            "timestamp": "2025-05-13T22:31:05.711049"
+        },
+        {
+            "slide": 5,
+            "attempt": 1,
+            "success": true,
+            "timestamp": "2025-05-13T22:31:14.742024"
+        },
+        {
+            "slide": 1,
+            "action": "start_clicked",
+            "timestamp": "2025-05-13T22:31:30.640849"
+        },
+        {
+            "slide": 3,
+            "attempt": 1,
+            "success": true,
+            "timestamp": "2025-05-13T22:31:36.654054"
+        },
+        {
+            "slide": 5,
+            "attempt": 1,
+            "success": true,
+            "timestamp": "2025-05-13T22:31:44.840644"
+        },
+        {
+            "slide": 1,
+            "action": "start_clicked",
+            "timestamp": "2025-05-13T22:45:32.969282"
+        },
+        {
+            "slide": 3,
+            "attempt": 1,
+            "success": true,
+            "timestamp": "2025-05-13T22:45:36.607239"
+        },
+        {
+            "slide": 5,
+            "attempt": 1,
+            "success": true,
+            "timestamp": "2025-05-13T22:45:41.489420"
+        },
+        {
+            "slide": 3,
+            "attempt": 1,
+            "success": true,
+            "timestamp": "2025-05-13T22:46:31.398800"
+        },
+        {
+            "slide": 5,
+            "attempt": 1,
+            "success": true,
+            "timestamp": "2025-05-13T22:46:36.631566"
+        },
+        {
+            "slide": 1,
+            "action": "start_clicked",
+            "timestamp": "2025-05-14T10:31:40.092612"
+        },
+        {
+            "slide": 3,
+            "attempt": 1,
+            "success": true,
+            "timestamp": "2025-05-14T10:31:44.703059"
+        },
+        {
+            "slide": 5,
+            "attempt": 1,
+            "success": true,
+            "timestamp": "2025-05-14T10:31:51.183964"
+        },
+        {
+            "slide": 1,
+            "action": "start_clicked",
+            "timestamp": "2025-05-14T10:46:23.361023"
+        },
+        {
+            "slide": 3,
+            "attempt": 1,
+            "success": true,
+            "timestamp": "2025-05-14T10:46:27.618650"
+        },
+        {
+            "slide": 5,
+            "attempt": 1,
+            "success": true,
+            "timestamp": "2025-05-14T10:46:33.832920"
+        },
+        {
+            "slide": 3,
+            "attempt": 1,
+            "success": true,
+            "timestamp": "2025-05-14T11:19:23.468714"
+        },
+        {
+            "slide": 5,
+            "attempt": 1,
+            "success": true,
+            "timestamp": "2025-05-14T11:19:28.456497"
+        },
+        {
+            "slide": 1,
+            "action": "start_clicked",
+            "timestamp": "2025-05-14T11:19:43.467519"
+        },
+        {
+            "slide": 3,
+            "attempt": 1,
+            "success": false,
+            "timestamp": "2025-05-14T11:19:48.998005"
+        },
+        {
+            "slide": 3,
+            "attempt": 2,
+            "success": true,
+            "timestamp": "2025-05-14T11:19:53.710158"
+        },
+        {
+            "slide": 5,
+            "attempt": 1,
+            "success": true,
+            "timestamp": "2025-05-14T11:19:59.130982"
+        },
+        {
+            "slide": 1,
+            "action": "start_clicked",
+            "timestamp": "2025-05-14T11:23:05.002848"
+        },
+        {
+            "slide": 3,
+            "attempt": 1,
+            "success": true,
+            "timestamp": "2025-05-14T11:23:08.524977"
+        },
+        {
+            "slide": 5,
+            "attempt": 1,
+            "success": true,
+            "timestamp": "2025-05-14T11:23:13.448027"
+        },
+        {
+            "slide": 1,
+            "action": "start_clicked",
+            "timestamp": "2025-05-14T12:51:30.862879"
+        },
+        {
+            "slide": 3,
+            "attempt": 1,
+            "success": true,
+            "timestamp": "2025-05-14T12:51:36.117652"
+        },
+        {
+            "slide": 5,
+            "attempt": 1,
+            "success": true,
+            "timestamp": "2025-05-14T12:51:44.731851"
+        },
+        {
+            "slide": 1,
+            "action": "start_clicked",
+            "timestamp": "2025-05-14T13:00:22.323471"
+        },
+        {
+            "slide": 3,
+            "attempt": 1,
+            "success": true,
+            "timestamp": "2025-05-14T13:00:28.119345"
+        },
+        {
+            "slide": 5,
+            "attempt": 1,
+            "success": true,
+            "timestamp": "2025-05-14T13:00:34.361614"
+        },
+        {
+            "slide": 1,
+            "action": "start_clicked",
+            "timestamp": "2025-05-14T13:01:03.894251"
+        },
+        {
+            "slide": 3,
+            "attempt": 1,
+            "success": true,
+            "timestamp": "2025-05-14T13:01:07.442899"
+        },
+        {
+            "slide": 5,
+            "attempt": 1,
+            "success": true,
+            "timestamp": "2025-05-14T13:01:12.741484"
+        },
+        {
+            "slide": 1,
+            "action": "start_clicked",
+            "timestamp": "2025-05-14T13:04:14.106151"
+        },
+        {
+            "slide": 3,
+            "attempt": 1,
+            "success": true,
+            "timestamp": "2025-05-14T13:04:18.180896"
+        },
+        {
+            "slide": 5,
+            "attempt": 1,
+            "success": true,
+            "timestamp": "2025-05-14T13:04:43.408493"
+        },
+        {
+            "slide": 1,
+            "action": "start_clicked",
+            "timestamp": "2025-05-14T13:14:31.643325"
+        },
+        {
+            "slide": 3,
+            "attempt": 1,
+            "success": true,
+            "timestamp": "2025-05-14T13:15:01.272541"
+        },
+        {
+            "slide": 5,
+            "attempt": 1,
+            "success": true,
+            "timestamp": "2025-05-14T13:15:06.681448"
+        },
+        {
+            "slide": 1,
+            "action": "start_clicked",
+            "timestamp": "2025-05-14T13:15:54.053546"
+        },
+        {
+            "slide": 3,
+            "attempt": 1,
+            "success": true,
+            "timestamp": "2025-05-14T13:15:58.281423"
+        },
+        {
+            "slide": 5,
+            "attempt": 1,
+            "success": true,
+            "timestamp": "2025-05-14T13:16:06.810095"
+        },
+        {
+            "slide": 1,
+            "action": "start_clicked",
+            "timestamp": "2025-05-14T13:26:09.912756"
+        },
+        {
+            "slide": 3,
+            "attempt": 1,
+            "success": true,
+            "timestamp": "2025-05-14T13:26:13.623299"
+        },
+        {
+            "slide": 5,
+            "attempt": 1,
+            "success": true,
+            "timestamp": "2025-05-14T13:26:17.970045"
+        },
+        {
+            "slide": 1,
+            "action": "start_clicked",
+            "timestamp": "2025-05-14T13:27:22.412158"
+        },
+        {
+            "slide": 3,
+            "attempt": 1,
+            "success": true,
+            "timestamp": "2025-05-14T13:27:26.103874"
+        },
+        {
+            "slide": 5,
+            "attempt": 1,
+            "success": true,
+            "timestamp": "2025-05-14T13:27:30.385666"
+        },
+        {
+            "slide": 3,
+            "attempt": 1,
+            "success": false,
+            "timestamp": "2025-05-18T18:30:14.451085"
+        },
+        {
+            "slide": 3,
+            "attempt": 2,
+            "success": true,
+            "timestamp": "2025-05-18T18:30:22.470743"
+        },
+        {
+            "slide": 5,
+            "attempt": 1,
+            "success": true,
+            "timestamp": "2025-05-18T18:38:02.649364"
+        },
+        {
+            "slide": 3,
+            "attempt": 1,
+            "success": true,
+            "timestamp": "2025-05-18T18:38:25.893559"
+        },
+        {
+            "slide": 5,
+            "attempt": 1,
+            "success": true,
+            "timestamp": "2025-05-18T18:39:17.301325"
+        },
+        {
+            "slide": 1,
+            "action": "start_clicked",
+            "timestamp": "2025-05-18T18:41:39.584953"
+        },
+        {
+            "slide": 3,
+            "attempt": 1,
+            "success": true,
+            "timestamp": "2025-05-18T18:41:50.685016"
+        },
+        {
+            "slide": 5,
+            "attempt": 1,
+            "success": true,
+            "timestamp": "2025-05-18T18:41:55.562193"
+        },
+        {
+            "slide": 3,
+            "attempt": 1,
+            "success": false,
+            "timestamp": "2025-06-01T10:35:40.451660"
+        },
+        {
+            "slide": 3,
+            "attempt": 2,
+            "success": true,
+            "timestamp": "2025-06-01T10:36:14.919947"
+        },
+        {
+            "slide": 5,
+            "attempt": 1,
+            "success": true,
+            "timestamp": "2025-06-01T10:39:04.019183"
+        },
+        {
+            "slide": 3,
+            "attempt": 1,
+            "success": true,
+            "timestamp": "2025-06-01T11:13:43.887412"
+        },
+        {
+            "slide": 5,
+            "attempt": 1,
+            "success": false,
+            "timestamp": "2025-06-01T11:13:50.424011"
+        },
+        {
+            "slide": 5,
+            "attempt": 1,
+            "success": false,
+            "timestamp": "2025-06-01T11:13:53.808689"
+        },
+        {
+            "slide": 5,
+            "attempt": 1,
+            "success": true,
+            "timestamp": "2025-06-01T11:13:57.986667"
+        },
+        {
+            "slide": 1,
+            "action": "start_clicked",
+            "timestamp": "2025-06-01T11:22:16.509927"
+        },
+        {
+            "slide": 3,
+            "attempt": 1,
+            "success": false,
+            "timestamp": "2025-06-01T11:22:22.736963"
+        },
+        {
+            "slide": 3,
+            "attempt": 2,
+            "success": true,
+            "timestamp": "2025-06-01T11:22:30.489288"
+        },
+        {
+            "slide": 1,
+            "action": "start_clicked",
+            "timestamp": "2025-06-01T11:22:41.336383"
+        },
+        {
+            "slide": 3,
+            "attempt": 1,
+            "success": true,
+            "timestamp": "2025-06-01T11:22:49.559016"
+        },
+        {
+            "slide": 5,
+            "attempt": 1,
+            "success": true,
+            "timestamp": "2025-06-01T11:22:56.805179"
+        },
+        {
+            "slide": 1,
+            "action": "start_clicked",
+            "timestamp": "2025-06-01T11:37:11.993150"
+        },
+        {
+            "slide": 3,
+            "attempt": 1,
+            "success": true,
+            "timestamp": "2025-06-01T11:37:25.470815"
+        },
+        {
+            "slide": 5,
+            "attempt": 1,
+            "success": true,
+            "timestamp": "2025-06-01T11:37:31.513420"
+        },
+        {
+            "slide": 1,
+            "action": "start_clicked",
+            "timestamp": "2025-06-01T11:47:36.651808"
+        },
+        {
+            "slide": 3,
+            "attempt": 1,
+            "success": false,
+            "timestamp": "2025-06-01T11:47:43.159021"
+        },
+        {
+            "slide": 3,
+            "attempt": 2,
+            "success": true,
+            "timestamp": "2025-06-01T11:47:47.649681"
+        },
+        {
+            "slide": 5,
+            "attempt": 1,
+            "success": false,
+            "timestamp": "2025-06-01T11:47:52.645937"
+        },
+        {
+            "slide": 5,
+            "attempt": 1,
+            "success": true,
+            "timestamp": "2025-06-01T11:47:55.738689"
+        },
+        {
+            "slide": 1,
+            "action": "start_clicked",
+            "timestamp": "2025-06-01T12:03:30.542615"
+        },
+        {
+            "slide": 3,
+            "attempt": 1,
+            "success": false,
+            "timestamp": "2025-06-01T12:03:36.864619"
+        },
+        {
+            "slide": 3,
+            "attempt": 2,
+            "success": true,
+            "timestamp": "2025-06-01T12:03:39.237632"
+        },
+        {
+            "slide": 5,
+            "attempt": 1,
+            "success": true,
+            "timestamp": "2025-06-01T12:03:46.042261"
+        },
+        {
+            "slide": 3,
+            "attempt": 1,
+            "success": true,
+            "timestamp": "2025-06-01T12:39:52.308473"
+        },
+        {
+            "slide": 5,
+            "attempt": 1,
+            "success": true,
+            "timestamp": "2025-06-01T12:39:57.332021"
+        },
+        {
+            "slide": 1,
+            "action": "start_clicked",
+            "timestamp": "2025-06-01T12:43:18.378803"
+        },
+        {
+            "slide": 3,
+            "attempt": 1,
+            "success": false,
+            "timestamp": "2025-06-01T12:43:25.280493"
+        },
+        {
+            "slide": 3,
+            "attempt": 2,
+            "success": true,
+            "timestamp": "2025-06-01T12:43:30.421527"
+        },
+        {
+            "slide": 5,
+            "attempt": 1,
+            "success": false,
+            "timestamp": "2025-06-01T12:43:36.181375"
+        },
+        {
+            "slide": 5,
+            "attempt": 1,
+            "success": true,
+            "timestamp": "2025-06-01T12:43:39.960871"
+        },
+        {
+            "slide": 1,
+            "action": "start_clicked",
+            "timestamp": "2025-06-01T12:48:53.534318"
+        },
+        {
+            "slide": 3,
+            "attempt": 1,
+            "success": true,
+            "timestamp": "2025-06-01T12:49:00.274037"
+        },
+        {
+            "slide": 5,
+            "attempt": 1,
+            "success": true,
+            "timestamp": "2025-06-01T12:49:06.167380"
+        },
+        {
+            "slide": 1,
+            "action": "start_clicked",
+            "timestamp": "2025-06-01T12:51:31.976705"
+        },
+        {
+            "slide": 1,
+            "action": "start_clicked",
+            "timestamp": "2025-06-01T12:53:24.236557"
+        },
+        {
+            "slide": 3,
+            "attempt": 1,
+            "success": true,
+            "timestamp": "2025-06-01T12:53:30.888917"
+        },
+        {
+            "slide": 1,
+            "action": "start_clicked",
+            "timestamp": "2025-06-01T12:53:42.700323"
+        },
+        {
+            "slide": 3,
+            "attempt": 1,
+            "success": false,
+            "timestamp": "2025-06-01T12:53:47.512113"
+        },
+        {
+            "slide": 3,
+            "attempt": 2,
+            "success": true,
+            "timestamp": "2025-06-01T12:53:54.656734"
+        },
+        {
+            "slide": 5,
+            "attempt": 1,
+            "success": true,
+            "timestamp": "2025-06-01T12:54:01.935829"
+        },
+        {
+            "slide": 1,
+            "action": "start_clicked",
+            "timestamp": "2025-06-01T12:59:38.998508"
+        },
+        {
+            "slide": 3,
+            "attempt": 1,
+            "success": true,
+            "timestamp": "2025-06-01T12:59:47.307108"
+        },
+        {
+            "slide": 5,
+            "attempt": 1,
+            "success": true,
+            "timestamp": "2025-06-01T12:59:55.807714"
+        },
+        {
+            "slide": 1,
+            "action": "start_clicked",
+            "timestamp": "2025-06-01T13:01:18.146905"
+        },
+        {
+            "slide": 3,
+            "attempt": 1,
+            "success": true,
+            "timestamp": "2025-06-01T13:01:32.599024"
+        },
+        {
+            "slide": 5,
+            "attempt": 1,
+            "success": true,
+            "timestamp": "2025-06-01T13:01:42.243465"
+        },
+        {
+            "slide": 1,
+            "action": "start_clicked",
+            "timestamp": "2025-06-01T13:05:20.073122"
+        },
+        {
+            "slide": 3,
+            "attempt": 1,
+            "success": true,
+            "timestamp": "2025-06-01T13:05:27.864658"
+        },
+        {
+            "slide": 5,
+            "attempt": 1,
+            "success": true,
+            "timestamp": "2025-06-01T13:05:33.812379"
+        },
+        {
+            "slide": 1,
+            "action": "start_clicked",
+            "timestamp": "2025-06-01T13:15:55.055921"
+        },
+        {
+            "slide": 3,
+            "attempt": 1,
+            "success": false,
+            "timestamp": "2025-06-01T13:16:00.690924"
+        },
+        {
+            "slide": 3,
+            "attempt": 2,
+            "success": true,
+            "timestamp": "2025-06-01T13:16:03.736373"
+        },
+        {
+            "slide": 5,
+            "attempt": 1,
+            "success": true,
+            "timestamp": "2025-06-01T13:16:10.016336"
+        },
+        {
+            "slide": 1,
+            "action": "start_clicked",
+            "timestamp": "2025-06-01T13:31:49.119803"
+        },
+        {
+            "slide": 3,
+            "attempt": 1,
+            "success": true,
+            "timestamp": "2025-06-01T13:31:56.949099"
+        },
+        {
+            "slide": 5,
+            "attempt": 1,
+            "success": true,
+            "timestamp": "2025-06-01T13:32:02.392200"
+        }
+    ]
+}
