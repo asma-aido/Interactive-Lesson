@@ -41,6 +41,16 @@ function stopLesson() {
     if (confirm("هل تريد إيقاف التدريب؟")) window.location.href = "/";
 }
 
+function handleBack() {
+    if (currentSlide === 1) {
+        // Go to homepage if we're on the first slide
+        window.location.href = "/";
+    } else {
+        // Otherwise, go to the previous slide
+        prevSlide();
+    }
+}
+
 function showSlide(index) {
     document.querySelectorAll("audio").forEach(audio => {
         audio.pause();
